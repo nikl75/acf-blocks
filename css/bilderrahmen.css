@@ -1,0 +1,26 @@
+.br-container{
+  padding: 30px;
+  margin: 32px;
+  position: relative;
+}
+
+
+.br-rahmen{
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  filter: drop-shadow(9px 9px 9px rgba(0,0,0,0.3));
+}
+.br-rahmen-1{
+  background-image: url(../img/rahmen/r01.png);
+}
+.br-rahmen-2{
+  background-image: url(../img/rahmen/r02.png);
+}
+.br-rahmen-3{
+  background-image: url(../img/rahmen/r03.png);
+}
