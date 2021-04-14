@@ -80,7 +80,6 @@ function render_bilderrahmen($block)
         <style type="text/css">
             #<?php echo $id; ?> .br-container {
                 max-width: <?php echo $size; ?>px;
-                float: left;
             }
         </style>
     </div>
