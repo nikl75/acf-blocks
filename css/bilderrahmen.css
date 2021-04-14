@@ -4,6 +4,9 @@
   position: relative;
 }
 
+.br-wrapper{
+  float: left;
+}
 
 .br-rahmen{
   background-size: 100% 100%;
